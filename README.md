@@ -1,107 +1,117 @@
-# Hi 👋, I'm Tarun Reddy
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Tarun Kumar Reddy</h1>
+<h3 align="center">AWS | DevOps | Java | Python | AI Engineer</h3>
 
-### AWS | DevOps | Java | Python | AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Java+%26+Python+Backend+Developer;Building+Scalable+Cloud+Systems;Always+Learning+%26+Automating!">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Student  
-☁️ Cloud & DevOps Enthusiast  
-💻 Passionate about Backend, Automation & Scalable Systems  
+Motivated **Computer Science Engineer** with strong interest in **Cloud Computing, DevOps, and Backend Development**.  
+Experienced in building **AWS-based automation systems**, **serverless architectures**, and **real-time applications**.
 
-- 🔭 Currently working on **AWS Cloud & DevOps Projects**
-- 🌱 Learning **Advanced AWS, Kubernetes & CI/CD**
-- 🧠 Strong in **OS, DBMS, DSA, OOPS**
-- 🛠 Hands-on with **Real-Time Cloud Applications**
-- 📫 Reach me at: **yeruvatarunkumar20@gmail.com**
+- ☁️ Hands-on with **AWS (EC2, S3, Lambda, IAM, RDS, CloudWatch)**
+- ⚙️ Strong foundation in **OS, DBMS, DSA, OOPS**
+- 🛠 Experience with **Docker, Kubernetes & CI/CD**
+- 🎯 Focused on **scalable, secure & automated systems**
 
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-- Java
-- Python
-- JavaScript
-- Bash
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda, IAM, RDS, CloudWatch)
-- Docker
-- Kubernetes
-- CI/CD (GitHub Actions)
-- Linux
-
-### 🌐 Backend & Databases
-- Node.js
-- Express.js
-- REST APIs
-- MySQL
-- MongoDB
-
-### 🔧 Tools & Platforms
-- Git & GitHub
-- AWS CLI
-- VS Code
-- Postman
+🎓 *B.Tech – Computer Science Engineering*  
+💡 *Cloud • DevOps • Backend Development*
 
 ---
 
-## 📌 Featured Projects
-
-### ☁️ AWS Cloud Automation Project
-- S3 → Lambda → Email workflow
-- Event-driven serverless architecture
-- IAM & security best practices
-
-### ⚖️ AWS Cloud Court (AI-Based System)
-- File upload triggers Lambda
-- Uses AWS Transcribe, Rekognition & Bedrock
-- Stores processed output in S3
-- End-to-end testing with Cypress
-
-### 🔄 Disaster Recovery & Backup Automation
-- AWS Lambda + EventBridge
-- S3 Glacier backups
-- SNS notifications
-- CloudTrail auditing
-
----
-
-## 🎓 Education
-
-- **B.Tech – Computer Science Engineering**
-- Focus Areas: OS, DBMS, CN, DSA ,SE
-
----
-
-## 🤝 Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="mailto:yeruvatarunkumar20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/yeruva-tarun-kumar-reddy-a63b421b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/tarunre12">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+  <a href="mailto:yeruvatarunkumar20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yeruva-tarun-kumar-reddy-a63b421b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tarunre12">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tarunre12&show_icons=true&theme=tokyonight"/>
+## 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,bash" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunre12&theme=tokyonight"/>
+## ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions" />
+</p>
+
+## 🌐 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+## ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-⭐ **Always learning | Always building | Cloud-first mindset**
+# 📱 Featured Projects
+
+### ☁️ **AWS Cloud Automation System**
+- S3 → Lambda → Email automation
+- Event-driven serverless architecture
+- Secure IAM roles & policies
+- Fully automated workflow
+
+### ⚖️ **AWS Cloud Court (AI-Based System)**
+- File uploads trigger AWS Lambda
+- Uses Transcribe, Rekognition & Bedrock
+- AI-generated outputs stored in S3
+- Backend + frontend end-to-end testing
+
+### 🔄 **Disaster Recovery & Backup Automation**
+- AWS Lambda + EventBridge scheduling
+- S3 Glacier backups
+- SNS notifications
+- CloudTrail auditing & monitoring
+
+---
+
+# 📊 GitHub Analytics
+
+### 🔥 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunre12&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tarunre12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunre12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tarunre12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Open to Opportunities
+
+💼 **DevOps / Cloud Internships**  
+☁️ **AWS & Backend Projects**  
+🌐 **Open Source Contributions & Collaborations**
+
+---
+
+# 🙌 Thank You for Visiting!
+⭐ *Feel free to explore my repositories and connect with me*
